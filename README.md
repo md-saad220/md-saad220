@@ -1,7 +1,7 @@
 ## Hi, I'm Saad 
 
 # 💫 About Me:
-I'm a **Full Stack MERN Web Developer** and a passionate about building web applications that solve real-world problems. I love turning ideas into code and learning new technologies along the way.
+I'm a **Full Stack MERN Web Developer** passionate about building web applications that solve real-world problems. I love turning ideas into code and learning new technologies along the way.
 
 🔭 I’m currently working on:  <br>A portfolio website to showcase my projects and skills.<br><br>👯 I’m looking to collaborate on:  <br>Open-source projects, web apps, or anything creative that involves React or Node.js!<br><br>🤝 I’m looking for help with:  <br>Improving my backend architecture and exploring deployment best practices.<br><br>🌱 I’m currently learning:  <br>TypeScript and Next.js — loving the power and flexibility so far.<br><br>💬 Ask me about:  <br>JavaScript, full stack development, or building cool UIs with React.<br><br>⚡ Fun fact:  <br>I debug in my sleep… and sometimes wake up with the solution.<br>
 
